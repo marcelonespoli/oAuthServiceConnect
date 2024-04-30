@@ -1,5 +1,4 @@
-# oAuthServiceConnect
-Connect using the oAuth service to Facebook without using that provider’s SDK.
+# Connect using the oAuth service to Facebook without using that provider’s SDK.
 
 In order to test this applicaiton you need a Meta for Developers account in https://developers.facebook.com
 
